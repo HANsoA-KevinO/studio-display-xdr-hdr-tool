@@ -1,0 +1,6 @@
+backups/
+diagnostics/
+dist/
+tests/
+Build-Release.ps1
+Test-Release.ps1
