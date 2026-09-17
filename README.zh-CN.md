@@ -1,5 +1,7 @@
 # Studio Display XDR：Windows / NVIDIA HDR 修复工具
 
+[English](README.md) | 简体中文
+
 这是一个便携式、无安装依赖、可完整回退的社区工具，用于处理以下特定问题：
 
 - Apple Studio Display XDR 连接到 Windows PC 的 NVIDIA 显卡；

@@ -1,5 +1,7 @@
 # Studio Display XDR HDR Tool for Windows and NVIDIA
 
+English | [简体中文](README.zh-CN.md)
+
 A portable, dependency-free, reversible community workaround for a specific NVIDIA driver regression affecting Apple Studio Display XDR on Windows.
 
 The affected state typically looks like this:
